@@ -72,11 +72,20 @@ padding: 62px 0 72px 36px;
 }
 h1{
 font-size: 26px;
+margin-bottom: 25px;
 }
 h3{
 font-size: 12px;
 }
 h2{
 font-size: 37px;
+margin-bottom: 25px;
+}
+ul{
+flex-direction: column;
+
+}
+li{
+margin-bottom: 20px;
 }
 }
